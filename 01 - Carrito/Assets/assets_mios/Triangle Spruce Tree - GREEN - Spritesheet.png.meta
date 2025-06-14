@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: f6397e9f2ff94cb40bb6ee5ae91f5d2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 903354021382798876
+    second: Triangle Spruce Tree - GREEN - Spritesheet_0
+  - first:
+      213: 7075925669414146388
+    second: Triangle Spruce Tree - GREEN - Spritesheet_1
+  - first:
+      213: 4570762076369261444
+    second: Triangle Spruce Tree - GREEN - Spritesheet_2
+  - first:
+      213: 3966181420206681847
+    second: Triangle Spruce Tree - GREEN - Spritesheet_3
+  - first:
+      213: -7017431195250738122
+    second: Triangle Spruce Tree - GREEN - Spritesheet_4
+  - first:
+      213: 6298191407044570310
+    second: Triangle Spruce Tree - GREEN - Spritesheet_5
+  - first:
+      213: 342151736247498317
+    second: Triangle Spruce Tree - GREEN - Spritesheet_6
+  - first:
+      213: 6868580748044782587
+    second: Triangle Spruce Tree - GREEN - Spritesheet_7
+  - first:
+      213: -834564254083948405
+    second: Triangle Spruce Tree - GREEN - Spritesheet_8
+  - first:
+      213: -1488499492244839872
+    second: Triangle Spruce Tree - GREEN - Spritesheet_9
+  - first:
+      213: 3521412695125775577
+    second: Triangle Spruce Tree - GREEN - Spritesheet_10
+  - first:
+      213: -6342822696723856076
+    second: Triangle Spruce Tree - GREEN - Spritesheet_11
+  - first:
+      213: 3504265436105118221
+    second: Triangle Spruce Tree - GREEN - Spritesheet_12
+  - first:
+      213: -7036263909530608943
+    second: Triangle Spruce Tree - GREEN - Spritesheet_13
+  - first:
+      213: -3664690642411950776
+    second: Triangle Spruce Tree - GREEN - Spritesheet_14
+  - first:
+      213: -811971581402239022
+    second: Triangle Spruce Tree - GREEN - Spritesheet_15
+  - first:
+      213: -8030328441920297933
+    second: Triangle Spruce Tree - GREEN - Spritesheet_16
+  - first:
+      213: -2570638178029612642
+    second: Triangle Spruce Tree - GREEN - Spritesheet_17
+  - first:
+      213: 4334668201586373917
+    second: Triangle Spruce Tree - GREEN - Spritesheet_18
+  - first:
+      213: 246698730168678265
+    second: Triangle Spruce Tree - GREEN - Spritesheet_19
+  - first:
+      213: -4696557611968914433
+    second: Triangle Spruce Tree - GREEN - Spritesheet_20
+  - first:
+      213: -6138638740778516597
+    second: Triangle Spruce Tree - GREEN - Spritesheet_21
+  - first:
+      213: 3603144535762718751
+    second: Triangle Spruce Tree - GREEN - Spritesheet_22
+  - first:
+      213: 1804852677963430382
+    second: Triangle Spruce Tree - GREEN - Spritesheet_23
+  - first:
+      213: -8909686704610174999
+    second: Triangle Spruce Tree - GREEN - Spritesheet_24
+  - first:
+      213: 500158399947902295
+    second: Triangle Spruce Tree - GREEN - Spritesheet_25
+  - first:
+      213: -7234715462598435419
+    second: Triangle Spruce Tree - GREEN - Spritesheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e31fe32bb598c00800000000000000
+      internalID: 903354021382798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519f7e08ecb23260800000000000000
+      internalID: 7075925669414146388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48311da34eb9e6f30800000000000000
+      internalID: 4570762076369261444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6c2aecf4ba0730800000000000000
+      internalID: 3966181420206681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cb55302831d9e90800000000000000
+      internalID: -7017431195250738122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc2f4827bba76750800000000000000
+      internalID: 6298191407044570310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b05af0319fb400800000000000000
+      internalID: 342151736247498317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbcb4e8cc9125f50800000000000000
+      internalID: 6868580748044782587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80661d8b380b64f0800000000000000
+      internalID: -834564254083948405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a5642999c75be0800000000000000
+      internalID: -1488499492244839872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d58060329ed030800000000000000
+      internalID: 3521412695125775577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354d70fc54c9f7a0800000000000000
+      internalID: -6342822696723856076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0299b509d6a1a030800000000000000
+      internalID: 3504265436105118221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad686014b2a5e90800000000000000
+      internalID: -7036263909530608943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d665fe647642dc0800000000000000
+      internalID: -3664690642411950776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfaec2162c4bb4f0800000000000000
+      internalID: -811971581402239022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ef9d14da8e8090800000000000000
+      internalID: -8030328441920297933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91dc786232435cd0800000000000000
+      internalID: -2570638178029612642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bcb663c5d72c30800000000000000
+      internalID: 4334668201586373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777e3220337c6300800000000000000
+      internalID: 246698730168678265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9f6f3cb972deb0800000000000000
+      internalID: -4696557611968914433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ff173d69c2fcaa0800000000000000
+      internalID: -6138638740778516597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d6807dd0f00230800000000000000
+      internalID: 3603144535762718751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93ce5b2ff1c0910800000000000000
+      internalID: 1804852677963430382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e790bfc52f6a5480800000000000000
+      internalID: -8909686704610174999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d82503a6be0f600800000000000000
+      internalID: 500158399947902295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle Spruce Tree - GREEN - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad5bc03e90299b90800000000000000
+      internalID: -7234715462598435419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
